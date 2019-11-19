@@ -34,7 +34,6 @@ public class SelfDividingNumbers {
                 int x = c - 48;
 
                 if (x == 0 || i % x != 0) {
-
                     flag = false;
                     break;
                 }
