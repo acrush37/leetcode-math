@@ -11,6 +11,7 @@ Math
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Java](src/easy/SelfDividingNumbers.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](src/easy/MinimumMovesToEqualArrayElements.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](src/easy/PowerOfThree.java)|Easy|
+|263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](src/easy/UglyNumber.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Java](src/easy/AddDigits.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](src/easy/PowerOfTwo.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](src/easy/HappyNumber.java)|Easy|
