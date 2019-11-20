@@ -11,4 +11,5 @@ Math
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Java](src/easy/SelfDividingNumbers.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](src/easy/MinimumMovesToEqualArrayElements.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Java](src/easy/AddDigits.java)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](src/easy/HappyNumber.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](src/easy/PalindromeNumber.java)|Easy|
