@@ -5,6 +5,7 @@ Math
 |---| ----- | -------- | ---------- |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](src/medium/AddTwoNumbers.java)|Medium|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Java](src/easy/PrimeArrangements.java)|Easy|
+|1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/)|[Java](src/easy/ValidBoomerang.java)|Easy|
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Java](src/easy/ComplementOfBase10Integer.java)|Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](src/easy/LargestPerimeterTriangle.java)|Easy|
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](src/easy/PowerfulIntegers.java)|Easy|
