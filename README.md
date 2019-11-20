@@ -9,6 +9,7 @@ Math
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Java](src/easy/SmallestRangeI.java)|Easy|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Java](src/easy/LargestTriangleArea.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Java](src/easy/SelfDividingNumbers.java)|Easy|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Java](src/easy/SumOfSquareNumbers.java)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Java](src/easy/PerfectNumber.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](src/easy/MinimumMovesToEqualArrayElements.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](src/easy/ValidPerfectSquare.java)|Easy|
