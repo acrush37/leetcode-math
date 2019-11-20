@@ -17,6 +17,7 @@ Math
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](src/easy/UglyNumber.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)|[Java](src/easy/AddDigits.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](src/easy/PowerOfTwo.java)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Java](src/easy/CountPrimes.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](src/easy/HappyNumber.java)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](src/easy/Sqrtx.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](src/easy/PalindromeNumber.java)|Easy|
