@@ -19,3 +19,4 @@ Math
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](src/easy/HappyNumber.java)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](src/easy/Sqrtx.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](src/easy/PalindromeNumber.java)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/easy/ReverseInteger.java)|Easy|
