@@ -16,6 +16,7 @@ Math
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Java](src/easy/SumOfSquareNumbers.java)|Easy|
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number/)|[Java](src/easy/PerfectNumber.java)|Easy|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)|[Java](src/easy/MinimumMovesToEqualArrayElements.java)|Easy|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Java](src/easy/ArrangingCoins.java)|Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](src/easy/ValidPerfectSquare.java)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[Java](src/easy/PowerOfThree.java)|Easy|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](src/easy/UglyNumber.java)|Easy|
