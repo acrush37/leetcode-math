@@ -16,6 +16,7 @@ Math
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Java](src/easy/DIStringMatch.java)|Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Java](src/easy/SmallestRangeI.java)|Easy|
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[Java](src/easy/SurfaceAreaOf3DShapes.java)|Easy|
+|883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|[Java](src/easy/ProjectionAreaOf3DShapes.java)|Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Java](src/easy/BinaryGap.java)|Easy|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|[Java](src/easy/RectangleOverlap.java)|Easy|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Java](src/easy/LargestTriangleArea.java)|Easy|
