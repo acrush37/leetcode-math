@@ -3,6 +3,7 @@ Math
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Java](src/medium/IntegerReplacement.java)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](src/medium/AddTwoNumbers.java)|Medium|
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)|[Java](src/easy/FindPositiveIntegerSolutionForGivenEquation.java)|Easy|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Java](src/easy/PrimeArrangements.java)|Easy|
