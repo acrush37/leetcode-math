@@ -16,6 +16,7 @@ Math
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Java](src/easy/BinaryGap.java)|Easy|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|[Java](src/easy/RectangleOverlap.java)|Easy|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[Java](src/easy/LargestTriangleArea.java)|Easy|
+|754|[Reach a Number](https://leetcode.com/problems/reach-a-number/)|[Java](src/easy/ReachANumber.java)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)|[Java](src/easy/SelfDividingNumbers.java)|Easy|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[Java](src/easy/SetMismatch.java)|Easy|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Java](src/easy/SumOfSquareNumbers.java)|Easy|
