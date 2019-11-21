@@ -13,6 +13,7 @@ Math
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[Java](src/easy/LargestPerimeterTriangle.java)|Easy|
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[Java](src/easy/PowerfulIntegers.java)|Easy|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[Java](src/easy/LargestTimeForGivenDigits.java)|Easy|
+|942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Java](src/easy/DIStringMatch.java)|Easy|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i/)|[Java](src/easy/SmallestRangeI.java)|Easy|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[Java](src/easy/BinaryGap.java)|Easy|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|[Java](src/easy/RectangleOverlap.java)|Easy|
