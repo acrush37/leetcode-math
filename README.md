@@ -40,5 +40,6 @@ Math
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Java](src/easy/ExcelSheetColumnTitle.java)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](src/easy/Sqrtx.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Java](src/easy/AddBinary.java)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](src/easy/RomanToInteger.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](src/easy/PalindromeNumber.java)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](src/easy/ReverseInteger.java)|Easy|
