@@ -5,6 +5,7 @@ Math
 |---| ----- | -------- | ---------- |
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](src/medium/SmallestIntegerDivisibleByK.java)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Java](src/medium/IntegerReplacement.java)|Medium|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](src/medium/Powxn.java)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](src/medium/MultiplyStrings.java)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](src/medium/AddTwoNumbers.java)|Medium|
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)|[Java](src/easy/FindPositiveIntegerSolutionForGivenEquation.java)|Easy|
