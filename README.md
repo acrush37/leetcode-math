@@ -4,6 +4,7 @@ Math
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](src/medium/SmallestIntegerDivisibleByK.java)|Medium|
+|400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Java](src/medium/NthDigit.java)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Java](src/medium/IntegerReplacement.java)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](src/medium/Powxn.java)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](src/medium/MultiplyStrings.java)|Medium|
