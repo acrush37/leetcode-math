@@ -10,7 +10,6 @@ Math
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Java](src/medium/MinimumMovesToEqualArrayElementsII.java)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Java](src/medium/NthDigit.java)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Java](src/medium/IntegerReplacement.java)|Medium|
-|365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[Java](src/medium/WaterAndJugProblem.java)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](src/medium/Powxn.java)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](src/medium/MultiplyStrings.java)|Medium|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](src/medium/DivideTwoIntegers.java)|Medium|
