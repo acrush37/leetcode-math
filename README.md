@@ -5,6 +5,7 @@ Math
 |---| ----- | -------- | ---------- |
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](src/medium/SmallestIntegerDivisibleByK.java)|Medium|
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)|[Java](src/medium/ClumsyFactorial.java)|Medium|
+|910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Java](src/medium/SmallestRangeII.java)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](src/medium/ReorderedPowerOf2.java)|Medium|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Java](src/medium/MinimumMovesToEqualArrayElementsII.java)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Java](src/medium/NthDigit.java)|Medium|
