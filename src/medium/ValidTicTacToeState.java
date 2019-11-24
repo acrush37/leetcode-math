@@ -7,13 +7,13 @@ package medium;
     The board is a 3 x 3 array, and consists of characters " ", "X", and "O".
     The " " character represents an empty square.
  */
-public class ValidTic {
+public class ValidTicTacToeState {
 
     public static void main(String... args) {
 
         String[] board = {"XXX", "XOO", "OO "};
-        ValidTic validTic = new ValidTic();
-        System.out.println(validTic.validTicTacToe(board));
+        ValidTicTacToeState validTicTacToeState = new ValidTicTacToeState();
+        System.out.println(validTicTacToeState.validTicTacToe(board));
     }
 
     public boolean validTicTacToe(String[] board) {
