@@ -3,6 +3,7 @@ Math
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](src/medium/SmallestIntegerDivisibleByK.java)|Medium|
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)|[Java](src/medium/ClumsyFactorial.java)|Medium|
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Java](src/medium/SmallestRangeII.java)|Medium|
