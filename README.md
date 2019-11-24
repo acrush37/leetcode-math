@@ -9,6 +9,7 @@ Math
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Java](src/medium/SmallestRangeII.java)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](src/medium/ReorderedPowerOf2.java)|Medium|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Java](src/medium/ValidTic-acToeState.java)|Medium|
+|640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Java](src/medium/SolveTheEquation.java)|Medium|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Java](src/medium/MinimumMovesToEqualArrayElementsII.java)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Java](src/medium/NthDigit.java)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Java](src/medium/IntegerReplacement.java)|Medium|
