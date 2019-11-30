@@ -14,6 +14,7 @@ Math
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Java](src/medium/SolveTheEquation.java)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Java](src/medium/ComplexNumberMultiplication.java)|Medium|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[Java](src/medium/MinimumMovesToEqualArrayElementsII.java)|Medium|
+|423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[Java](src/medium/ReconstructOriginalDigitsFromEnglish.java)|Medium|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/)|[Java](src/medium/NthDigit.java)|Medium|
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)|[Java](src/medium/IntegerReplacement.java)|Medium|
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|[Java](src/medium/SuperPow.java)|Medium|
