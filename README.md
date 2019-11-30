@@ -4,6 +4,7 @@ Math
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
+|1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/)|[Java](src/medium/AddingTwoNegabinaryNumbers.java)|Medium|
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/)|[Java](src/medium/ConvertToBaseMinus2.java)|Medium|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](src/medium/SmallestIntegerDivisibleByK.java)|Medium|
 |1006|[Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/)|[Java](src/medium/ClumsyFactorial.java)|Medium|
