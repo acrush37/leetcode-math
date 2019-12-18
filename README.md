@@ -25,6 +25,7 @@ Math
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](src/medium/MultiplyStrings.java)|Medium|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](src/medium/DivideTwoIntegers.java)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](src/medium/AddTwoNumbers.java)|Medium|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](src/easy/SubtractProductAndSumOfDigitsOfInteger.java)|Easy|
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)|[Java](src/easy/FindPositiveIntegerSolutionForGivenEquation.java)|Easy|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Java](src/easy/PrimeArrangements.java)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[Java](src/easy/DayOfTheYear.java)|Easy|
