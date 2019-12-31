@@ -4,6 +4,7 @@ Math
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Java](src/hard/CheckIfItIsGoodArray.java)|Hard|
+|829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](src/hard/ConsecutiveNumbersSum.java)|Hard|
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
 |1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/)|[Java](src/medium/AddingTwoNegabinaryNumbers.java)|Medium|
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/)|[Java](src/medium/ConvertToBaseMinus2.java)|Medium|
