@@ -29,6 +29,7 @@ Math
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](src/medium/DivideTwoIntegers.java)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Java](src/medium/AddTwoNumbers.java)|Medium|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[Java](src/easy/Maximum69Number.java)|Easy|
+|1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/)|[Java](src/easy/ConvertToSumOfTwoNoZeroIntegers.java)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[Java](src/easy/SubtractProductAndSumOfDigitsOfInteger.java)|Easy|
 |1237|[Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/)|[Java](src/easy/FindPositiveIntegerSolutionForGivenEquation.java)|Easy|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[Java](src/easy/PrimeArrangements.java)|Easy|
