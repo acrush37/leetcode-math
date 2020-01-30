@@ -6,6 +6,7 @@ Math
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Java](src/hard/CheckIfItIsGoodArray.java)|Hard|
 |906|[Super Palindromes](https://leetcode.com/problems/super-palindromes/)|[Java](src/hard/SuperPalindromes.java)|Hard|
 |891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)|[Java](src/hard/SumOfSubsequenceWidths.java)|Hard|
+|878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[Java](src/hard/NthMagicalNumber.java)|Hard|
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](src/hard/ConsecutiveNumbersSum.java)|Hard|
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)|[Java](src/hard/SplitArrayWithSameAverage.java)|Hard|
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
