@@ -7,6 +7,7 @@ Math
 |906|[Super Palindromes](https://leetcode.com/problems/super-palindromes/)|[Java](src/hard/SuperPalindromes.java)|Hard|
 |891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)|[Java](src/hard/SumOfSubsequenceWidths.java)|Hard|
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](src/hard/ConsecutiveNumbersSum.java)|Hard|
+|805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)|[Java](src/hard/SplitArrayWithSameAverage.java)|Hard|
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
 |1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/)|[Java](src/medium/CircularPermutationInBinary.java)|Medium|
 |1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/)|[Java](src/medium/AddingTwoNegabinaryNumbers.java)|Medium|
