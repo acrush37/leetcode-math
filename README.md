@@ -9,6 +9,7 @@ Math
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[Java](src/hard/NthMagicalNumber.java)|Hard|
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](src/hard/ConsecutiveNumbersSum.java)|Hard|
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)|[Java](src/hard/SplitArrayWithSameAverage.java)|Hard|
+|233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[Java](src/hard/NumberOfDigitOne.java)|Hard|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](src/hard/MaxPointsOnLine.java)|Hard|
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
 |1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/)|[Java](src/medium/CircularPermutationInBinary.java)|Medium|
