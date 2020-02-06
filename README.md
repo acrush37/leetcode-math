@@ -10,6 +10,7 @@ Math
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](src/hard/ConsecutiveNumbersSum.java)|Hard|
 |810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/)|[Java](src/hard/ChalkboardXorGame.java)|Hard|
 |805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/)|[Java](src/hard/SplitArrayWithSameAverage.java)|Hard|
+|483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)|[Java](src/hard/SmallestGoodBase.java)|Hard|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[Java](src/hard/NumberOfDigitOne.java)|Hard|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](src/hard/MaxPointsOnLine.java)|Hard|
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
