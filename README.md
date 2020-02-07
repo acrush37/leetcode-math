@@ -24,6 +24,7 @@ Math
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](src/medium/ReorderedPowerOf2.java)|Medium|
 |866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)|[Java](src/medium/PrimePalindrome.java)|Medium|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Java](src/medium/ValidTicTacToeState.java)|Medium|
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Java](src/medium/EscapeTheGhosts.java)|Medium|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Java](src/medium/SolveTheEquation.java)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Java](src/medium/ComplexNumberMultiplication.java)|Medium|
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[Java](src/medium/GenerateRandomPointInCircle.java)|Medium|
