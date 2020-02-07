@@ -22,6 +22,7 @@ Math
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[Java](src/medium/SmallestRangeII.java)|Medium|
 |885|[Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)|[Java](src/medium/SpiralMatrixIII.java)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[Java](src/medium/ReorderedPowerOf2.java)|Medium|
+|866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)|[Java](src/medium/PrimePalindrome.java)|Medium|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Java](src/medium/ValidTicTacToeState.java)|Medium|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Java](src/medium/SolveTheEquation.java)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Java](src/medium/ComplexNumberMultiplication.java)|Medium|
