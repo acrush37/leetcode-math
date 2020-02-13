@@ -37,6 +37,7 @@ Math
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)|[Java](src/medium/SuperPow.java)|Medium|
 |365|[Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/)|[Java](src/medium/WaterAndJugProblem.java)|Medium|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher/)|[Java](src/medium/BulbSwitcher.java)|Medium|
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)|[Java](src/medium/SuperUglyNumber.java)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Java](src/medium/RectangleArea.java)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](src/medium/Powxn.java)|Medium|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](src/medium/MultiplyStrings.java)|Medium|
