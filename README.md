@@ -18,6 +18,7 @@ Math
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
 |1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/)|[Java](src/medium/CircularPermutationInBinary.java)|Medium|
 |1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/)|[Java](src/medium/MaximumAbsoluteValueExpression.java)|Medium|
+|1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/)|[Java](src/medium/CorporateFlightBookings.java)|Medium|
 |1073|[Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/)|[Java](src/medium/AddingTwoNegabinaryNumbers.java)|Medium|
 |1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Java](src/medium/RobotBoundedInCircle.java)|Medium|
 |1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/)|[Java](src/medium/ConvertToBaseMinus2.java)|Medium|
