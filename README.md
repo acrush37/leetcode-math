@@ -30,6 +30,7 @@ Math
 |866|[Prime Palindrome](https://leetcode.com/problems/prime-palindrome/)|[Java](src/medium/PrimePalindrome.java)|Medium|
 |794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/)|[Java](src/medium/ValidTicTacToeState.java)|Medium|
 |789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/)|[Java](src/medium/EscapeTheGhosts.java)|Medium|
+|781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Java](src/medium/RabbitsInForest.java)|Medium|
 |672|[Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/)|[Java](src/medium/BulbSwitcherII.java)|Medium|
 |640|[Solve the Equation](https://leetcode.com/problems/solve-the-equation/)|[Java](src/medium/SolveTheEquation.java)|Medium|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/)|[Java](src/medium/ComplexNumberMultiplication.java)|Medium|
