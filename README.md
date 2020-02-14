@@ -4,6 +4,7 @@ Math
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1250|[Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)|[Java](src/hard/CheckIfItIsGoodArray.java)|Hard|
+|972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/)|[Java](src/hard/EqualRationalNumbers.java)|Hard|
 |906|[Super Palindromes](https://leetcode.com/problems/super-palindromes/)|[Java](src/hard/SuperPalindromes.java)|Hard|
 |891|[Sum of Subsequence Widths](https://leetcode.com/problems/sum-of-subsequence-widths/)|[Java](src/hard/SumOfSubsequenceWidths.java)|Hard|
 |878|[Nth Magical Number](https://leetcode.com/problems/nth-magical-number/)|[Java](src/hard/NthMagicalNumber.java)|Hard|
