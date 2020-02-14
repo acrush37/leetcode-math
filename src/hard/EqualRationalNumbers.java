@@ -24,18 +24,18 @@ public class EqualRationalNumbers {
 
             String s = S.substring(x+1, S.length()-1);
             S = S.substring(0, x);
-            for (int i = 0; i < 50; i++) S += s;
+            for (int i = 0; i < 30; i++) S += s;
         }
 
         if ((x = T.indexOf("(")) >= 0) {
 
             String s = T.substring(x+1, T.length()-1);
             T = T.substring(0, x);
-            for (int i = 0; i < 50; i++) T += s;
+            for (int i = 0; i < 30; i++) T += s;
         }
 
         BigDecimal a = new BigDecimal(S).subtract(new BigDecimal(T)).abs();
-        return a.compareTo(new BigDecimal("0.000000000000000000000000000000001")) == -1;
+        return a.compareTo(new BigDecimal("0.00000000000000000000000001")) == -1;
     }
 
 }
