@@ -24,7 +24,7 @@ public class FractionAdditionAndSubtraction {
         int n = expression.length(), x = expression.indexOf('/'), y = 0;
         BigDecimal decimal = new BigDecimal(expression.substring(0, x++));
         while (x < n && c[x] != '+' && c[x] != '-') y = y * 10 + c[x++] - 48;
-        decimal = decimal.divide(BigDecimal.valueOf(y), 100, 5);
+        decimal = decimal.divide(BigDecimal.valueOf(y), 50, 5);
 
         while (x < n) {
 
@@ -33,7 +33,7 @@ public class FractionAdditionAndSubtraction {
             x = y+1;
             y = 0;
             while (x < n && c[x] != '+' && c[x] != '-') y = y * 10 + c[x++] - 48;
-            decimal = decimal.add(decimal1.divide(BigDecimal.valueOf(y), 100, 5));
+            decimal = decimal.add(decimal1.divide(BigDecimal.valueOf(y), 50, 5));
         }
 
         for (int i = 1; ; i++) {
