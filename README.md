@@ -14,6 +14,7 @@ Math
 |483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base/)|[Java](src/hard/SmallestGoodBase.java)|Hard|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)|[Java](src/hard/NumberOfDigitOne.java)|Hard|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)|[Java](src/hard/MaxPointsOnLine.java)|Hard|
+|1362|[Closest Divisors](https://leetcode.com/problems/closest-divisors/)|[Java](src/medium/ClosestDivisors.java)|Medium|
 |1344|[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)|[Java](src/medium/AngleBetweenHandsOfClock.java)|Medium|
 |1253|[Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/)|[Java](src/medium/ReconstructTwoRowBinaryMatrix.java)|Medium|
 |1238|[Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/)|[Java](src/medium/CircularPermutationInBinary.java)|Medium|
